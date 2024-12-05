@@ -1,7 +1,7 @@
 # grbl-g540-interface-board
-A simple GRBL to Gecko G540 Breakout Board. Designed in Fritzing. PCB boards avalible on my Oshpark account. 
+A simple GRBL to Gecko G540 Breakout Board. Designed in Fritzing. PCB boards avalible. 
+<BR>
+Update: 12/05/2024 Board is no longer available!
 
-[OSHPark PCB Boards](https://oshpark.com/shared_projects/PoEBi8Lg)
-
-![Screenshot](https://github.com/509Maker/grbl-g540-interface-board/blob/master/Images/grbl_interface_board.jpg)
+![Screenshot](https://github.com/DesertShedStudio/grbl-g540-interface-board/blob/master/Images/grbl_interface_board.jpg)
 
